@@ -10,6 +10,8 @@ export default defineConfig({
 
     siteTitle: '',
 
+    base: '/coconut-docs/',
+
     head: [
       ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/assets/favicons/apple-touch-icon.png"}],
       ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/favicons/favicon-32x32.png"}],
@@ -83,7 +85,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Steinbeck-Lab/coconut-docs' }
     ]
   }
 })
