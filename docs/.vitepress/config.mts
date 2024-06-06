@@ -4,13 +4,12 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "COCONUT Docs",
   description: "COCONUT: the COlleCtion of Open NatUral producTs",
+  base: '/coconut-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
 
     siteTitle: '',
-
-    base: '/coconut-docs/',
 
     head: [
       ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/assets/favicons/apple-touch-icon.png"}],
