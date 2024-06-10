@@ -28,3 +28,13 @@ Venkata, C., Sharma, N., Schaub, J., Steinbeck, C., & Rajan, K. (2023).
 COCONUT-2.0 (Version v0.0.1 - prerelease) [Computer software]. 
 https://doi.org/10.5281/zenodo.??
 ```
+
+## Acknowledgments and Maintainence
+
+Cheminformatics Microservice and [Natural Products Online](https://naturalproducts.net/) are developed and maintained by the [Steinbeck group](https://cheminf.uni-jena.de/) at the [Friedrich Schiller University](https://www.uni-jena.de/en/) Jena, Germany.
+
+Funded by the [Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)](https://www.dfg.de/) under the [National Research Data Infrastructure – NFDI4Chem](https://www.nfdi4chem.de/) – Project number: 441958208 and [ChemBioSys](https://docs.api.naturalproducts.net/introduction.html) (Project INF) - Project number: 239748522 - SFB 1127.
+
+![Deutche Forschungsgemeinschaft logo](/dfg_logo_schriftzug_blau_foerderung_en.gif)
+
+![Cheming and Computational Metabolomics logo](/CheminfGit.png)

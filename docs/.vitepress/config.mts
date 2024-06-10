@@ -41,19 +41,30 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Search',
+        text: 'Browse/Search',
         items: [
+          { text: 'Browse', link: '/browse' },
           { text: 'Simple', link: '/simple-search' },
           { text: 'Structure', link: '/structure-search' },
+          // {
+          //   text: 'Structure',
+          //   items: [
+          //     { text: 'Draw Structure', link: '/draw-structure' },
+          //     { text: 'Substructure Search', link: '/substructure-search' },
+          //     { text: 'Similarity Search', link: '/similarity-search' },
+          //   ]
+          // },
           { text: 'Advanced', link: '/advanced-search' }
         ]
       },
       {
         text: 'Submission Guides',
         items: [
+          { text: 'Collection Submission', link: '/collection-submission' },
           { text: 'Single Compound Submission', link: '/single-submission' },
           { text: 'Multiple Compound Submission', link: '/multi-submission' },
-          { text: 'Programmatic Submission via API', link: '/api-submission' }
+          { text: 'Programmatic Submission via API', link: '/api-submission' },
+          { text: 'Reporting', link: '/report-submission' }
         ]
       },
       {
